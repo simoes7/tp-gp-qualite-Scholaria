@@ -64,5 +64,4 @@ Dans ce projet, j’ai principalement travaillé sur :
 
 ---
 
-## 🔗 Lien du projet
-👉 (Ajouter ici le lien du repository)
+
